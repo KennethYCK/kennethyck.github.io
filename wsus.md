@@ -1,6 +1,8 @@
 # Powershell
 
-## WSUS
+## WSUS 
+
+Below code base on the WSUS group name and appove all security update for computer needed.
 
 
 ```
